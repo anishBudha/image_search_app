@@ -99,7 +99,11 @@ button:hover {
     font-size: 50%;
   }
   .search-result {
-    width: 45%;
+    width: 100%;
+  }
+  .search-results {
+    columns: 2;
+    gap: 15px;
   }
 }
 
@@ -120,5 +124,9 @@ button:hover {
     margin-top: 2rem;
     background-color: black;
     color: wheat;
+  }
+  .search-results {
+    columns: 1;
+    gap: 15px;
   }
 }
