@@ -117,5 +117,7 @@ button:hover {
   }
   button {
     margin-top: 2rem;
+    background-color: black;
+    color: wheat;
   }
 }
