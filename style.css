@@ -79,6 +79,9 @@ button:hover {
 .search-result:hover img {
   opacity: 0.8;
 }
+.a-tag-wrapper {
+  padding: 2px 6px;
+}
 
 .search-result a {
   font-size: 20px;
