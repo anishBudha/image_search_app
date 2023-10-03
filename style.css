@@ -57,14 +57,12 @@ button:hover {
 }
 
 .search-results {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  margin: 0 auto;
+  columns: 5 340px;
+  gap: 30px;
 }
 
 .search-result {
-  width: 30%;
+  width: 100%;
   height: 100%;
   overflow: hidden;
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
