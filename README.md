@@ -15,4 +15,4 @@
 
 ### PAGE : [IMG](https://get-image-app.netlify.app/)
 
-![Home Page](image.png)
+![Home Page](/resources/image.png)
