@@ -7,3 +7,12 @@
 ---
 
 # IMAGE SEARCH APP
+
+- API ( [UNSPLASH.COM](https://unsplash.com/) )
+- CSS - COLUMNS PROPERTY
+- DYNAMICALLY CREATING DIVS WITH JS
+- APPENDCHILD
+
+### PAGE : [IMG](https://get-image-app.netlify.app/)
+
+![Home Page](image.png)

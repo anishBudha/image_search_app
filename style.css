@@ -57,7 +57,7 @@ button:hover {
 }
 
 .search-results {
-  columns: 5 340px;
+  columns: 3 340px;
   gap: 30px;
 }
 
